@@ -3,9 +3,9 @@
     "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @semo_android with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "semo", "WhatsAsena", "android", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "repository": "https://youtube.com/c/SEMOANDROIDWA",
+    "website":   "https://youtube.com/c/SEMOANDROIDWA",
+    "success_url": "https://youtube.com/c/SEMOANDROIDWA",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
